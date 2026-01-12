@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- This is the ES-DE find rules configuration file for Android -->
+<ruleList>
+	    <emulator name="DraStic (Anbernic RG DS)">
+        <!-- Nintendo DS and DSi emulator DraStic (Anbernic RG DS) -->
+        <rule type="androidpackage">
+            <entry>com.dsemu.drastic/com.dsemu.drastic.ui.RomSelector.EmulatorActivity</entry>
+        </rule>
+    </emulator>
+</ruleList>
